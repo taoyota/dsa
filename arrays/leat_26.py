@@ -12,4 +12,4 @@ class Solution:
                 i += 1
                 j += 1
         
-        i + 1
+        return i + 1
